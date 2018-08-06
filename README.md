@@ -1,0 +1,1 @@
+Demo project for blog post https://dglloyd.net/2018/06/13/logging-and-capturing-messages-from-libraries-and-nested-modules/
